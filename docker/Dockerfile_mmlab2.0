@@ -1,3 +1,4 @@
+# 这个暂时跑不通，搁置。
 ARG PYTORCH="1.8.1"
 ARG CUDA="10.2"
 ARG CUDNN="7"
